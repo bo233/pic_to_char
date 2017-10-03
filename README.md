@@ -7,6 +7,4 @@ code.py会在目录下生成一个纯文本文件；pic_to_char.exe会在屏幕�
 ## 注意事项
 图片尺寸请勿过大
 ## 鸣谢
-MaHua让我感受到了markdown的强大
-实验楼让我感受到了Python的强大
-CSDN让我学会了用c++提取图片内每一个像素的信息
+MaHua让我感受到了markdown的强大；实验楼让我感受到了Python的强大；CSDN让我学会了用c++提取图片内每一个像素的信息
